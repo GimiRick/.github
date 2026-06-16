@@ -12,11 +12,9 @@ Founded by Mohammad Faiz.
 
 We believe AI should be open, accessible, and built in public. No gatekeeping, no vague promises, just code and models you can actually use.
 
-## Where to find us
-
-* GitHub: https://github.com/GimiRick
-* X: https://x.com/GimiRick
-* Instagram: https://instagram.com/gimirick
+* GitHub: <https://github.com/GimiRick>
+* X: <https://x.com/GimiRick>
+* Instagram: <https://instagram.com/gimirick>
 
 ## Get in touch
 
